@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "bit-net",
+  "version": "1.0.0",
+  "description": "BIT network tools",
+  "scripts": {
+    "login": "node main.js login",
+    "logout": "node main.js logout"
+  },
+  "author": "li.zeqing@outlook.com",
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^8.0.0",
+    "request": "^2.88.2"
+  }
+}
